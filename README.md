@@ -7,7 +7,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alifayyaz/TFM-Chemistry/HEAD)  
 
 Repository for HPC-optimized PDE solvers, mock data generation, and validation of wave-lump coherence effects in atomic and molecular systems. Supports Figures 1–5 of the paper.
-
+---
+# Ethics & Transparency  
+For details on synthetic data generation and reproducibility, see [ETHICS.md](ETHICS.md).  
 ---
 
 ## Key Features
@@ -38,10 +40,3 @@ pip install -r requirements.txt  # numpy, scipy, fenics, matplotlib
 # Optional: Create Conda environment
 conda env create -f environment.yml
 conda activate tfm-chemistry
-
-
----
-
-
-# Ethics & Transparency  
-For details on synthetic data generation and reproducibility, see [ETHICS.md](ETHICS.md).  
