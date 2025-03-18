@@ -19,7 +19,14 @@ For details on synthetic data generation and reproducibility, see [ETHICS.md](ET
 - **PDE Solvers**: Finite-element solvers (FEniCS) for Eqs. 4, 7, 12–14 of the paper  
 
 ---
-
+## Validate TFM Predictions  
+1. **Run real HPC simulations**:  
+   - Use parameters from [`src/params/constants.py`](src/params/constants.py)  
+   - Start with [`templates/hpc_slurm.sh`](templates/hpc_slurm.sh)  
+2. **Compare to experiments**:  
+   - Test Rydberg state deviations (Section 5.1 of [paper](LINK))  
+   - Measure oscillatory reaction rates (Section 3.2)  
+---
 ## Installation
 
 ### Dependencies
