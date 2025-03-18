@@ -39,5 +39,9 @@ pip install -r requirements.txt  # numpy, scipy, fenics, matplotlib
 conda env create -f environment.yml
 conda activate tfm-chemistry
 
-## Ethics & Transparency  
+
+---
+
+
+# Ethics & Transparency  
 For details on synthetic data generation and reproducibility, see [ETHICS.md](ETHICS.md).  
