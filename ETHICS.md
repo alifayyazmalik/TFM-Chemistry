@@ -49,7 +49,6 @@ We urge researchers to:
 ## Contact  
 For questions or collaboration proposals:  
 📧 [alifayyaz@live.com](mailto:alifayyaz@live.com)  
-📄 [Full Paper Preprint](INSERT_LINK_HERE)  
 ---
 ## Core Disclaimer  
 **This repository does NOT contain**:  
