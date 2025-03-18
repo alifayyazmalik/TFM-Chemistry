@@ -50,3 +50,16 @@ We urge researchers to:
 For questions or collaboration proposals:  
 📧 [alifayyaz@live.com](mailto:alifayyaz@live.com)  
 📄 [Full Paper Preprint](INSERT_LINK_HERE)  
+---
+## Core Disclaimer  
+**This repository does NOT contain**:  
+- Results from real HPC simulations  
+- Experimentally validated data  
+- Actual PDE solutions for multi-atom systems  
+
+**What it DOES provide**:  
+- Parameterized equations (Eqs. 1–7) for others to implement  
+- Mock data scripts to illustrate theoretical predictions  
+- Templates for future HPC/experimental validation  
+
+**Figures 1–5 are illustrative** and generated from simplified analytical models.  
