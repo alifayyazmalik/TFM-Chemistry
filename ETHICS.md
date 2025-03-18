@@ -38,6 +38,13 @@ We urge researchers to:
 - **Citation**: Required if using this repository for derivative work (see [README.md#citation](README.md#citation)).  
 
 ---
+## This Repository Contains Theoretical Frameworks, Not Real Simulations
+- **All data is synthetic**: Generated from simplified equations (no HPC/experiments).  
+- **Figures are illustrative**: Use `mock_data/` scripts to regenerate them.  
+- **Validation needed**: Parameters in `src/params/` must be tested in real simulations.  
+
+★ **Your Role**: Implement `templates/` on HPC clusters and compare to experiments!
+---
 
 ## Contact  
 For questions or collaboration proposals:  
